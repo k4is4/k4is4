@@ -1,6 +1,6 @@
 Hi, I’m @kaisaranta (Kaisa)
 
-I'm studying Python and other things coding related!
+I'm studying Python and other things related to coding!
 
 I’m currently learning how to use GitHub :D
 
