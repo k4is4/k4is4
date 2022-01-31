@@ -1,8 +1,6 @@
 Hi, I’m @kaisaranta (Kaisa)
 
-I'm studying Python and other things related to coding!
-
-I’m currently learning how to use GitHub :D
+I'm currently studying Python and other things related to coding!
 
 <!---
 kaisaranta/kaisaranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
