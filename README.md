@@ -1,6 +1,6 @@
 Hi, I’m @kaisaranta (Kaisa)
 
-I'm currently studying Python and other things related to coding!
+I'm currently studying C# and Azure at AW Academy :)
 
 <!---
 kaisaranta/kaisaranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
