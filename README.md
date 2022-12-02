@@ -1,6 +1,6 @@
-Hi, I’m @kaisaranta (Kaisa)
+Hi, I’m @k4is4 (Kaisa)
 
-I'm currently studying C# and Azure at AW Academy :)
+I've recently started my career as a software developer. At the moment I'm working on improving my .NET coding and Azure skills.
 
 <!---
 kaisaranta/kaisaranta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
